@@ -1,0 +1,13 @@
+h1+p {
+    color: blue;
+}
+#maCouleur {
+    color: red;
+}
+ .taille4 {
+     font-size: 80px;
+     /* Titres de 80 pixels */
+ }
+ .taille {
+     font-size: small;
+ }
